@@ -1,9 +1,9 @@
 table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
-    width: 60%;
+    width: 80%;
     margin: 0 auto;
-    table-layout: fixed
+    table-layout: fixed;
     
   }
   
@@ -26,7 +26,20 @@ table {
     background-color: #B5E8E0;
 
   }
-  header{
-    color: #15806f;
-    font-size: 35px;
+  header {
+    background-color:#15806f;
+    color: white;
+    text-align: center;
+    padding: 2rem 1rem;
+    font-size: 25px;
   }
+
+
+  footer {
+    background-color:#15806f;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    margin: 2rem;
+  }
+
